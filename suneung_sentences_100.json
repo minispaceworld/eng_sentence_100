@@ -1,0 +1,1822 @@
+[
+  {
+    "id": 1,
+    "source": "기출 기반 변형",
+    "sentence": "People who set clear goals are more likely to persist when difficulties arise.",
+    "mainVerb": "are",
+    "acceptableVerbs": [
+      "are"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "People",
+      "who set clear goals",
+      "are more likely",
+      "to persist when difficulties arise"
+    ],
+    "translation": "명확한 목표를 세우는 사람들은 어려움이 생길 때 더 끈기 있게 버틸 가능성이 높다.",
+    "note": "who절은 People을 꾸밈"
+  },
+  {
+    "id": 2,
+    "source": "기출 기반 변형",
+    "sentence": "Because the brain prefers familiar patterns, it often ignores information that does not fit them.",
+    "mainVerb": "ignores",
+    "acceptableVerbs": [
+      "ignores",
+      "often ignores"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "Because the brain prefers familiar patterns",
+      "it",
+      "often ignores information",
+      "that does not fit them"
+    ],
+    "translation": "뇌는 익숙한 패턴을 선호하기 때문에 그것에 맞지 않는 정보를 종종 무시한다.",
+    "note": "Because절은 이유, that절은 information을 꾸밈"
+  },
+  {
+    "id": 3,
+    "source": "기출 기반 변형",
+    "sentence": "The more attention you give to a task, the more detail you are able to notice.",
+    "mainVerb": "are able",
+    "acceptableVerbs": [
+      "able",
+      "are able",
+      "are able to notice",
+      "notice"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "The more attention you give to a task",
+      "the more detail you",
+      "are able",
+      "to notice"
+    ],
+    "translation": "과제에 더 많은 주의를 기울일수록 더 많은 세부 사항을 알아차릴 수 있다.",
+    "note": "the 비교급, the 비교급 구조"
+  },
+  {
+    "id": 4,
+    "source": "기출 기반 변형",
+    "sentence": "What matters in discussion is not how loudly you speak but how clearly you think.",
+    "mainVerb": "is",
+    "acceptableVerbs": [
+      "is"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "What matters in discussion",
+      "is not how loudly you speak",
+      "but how clearly you think"
+    ],
+    "translation": "토론에서 중요한 것은 얼마나 크게 말하느냐가 아니라 얼마나 명확하게 생각하느냐이다.",
+    "note": "What절이 주어 역할"
+  },
+  {
+    "id": 5,
+    "source": "기출 기반 변형",
+    "sentence": "Students who reflect on their mistakes usually improve faster than those who simply repeat the same method.",
+    "mainVerb": "improve",
+    "acceptableVerbs": [
+      "improve",
+      "usually improve"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "Students",
+      "who reflect on their mistakes",
+      "usually improve faster than those",
+      "who simply repeat the same method"
+    ],
+    "translation": "자신의 실수를 돌아보는 학생들은 같은 방법을 반복하기만 하는 학생들보다 대개 더 빨리 향상된다.",
+    "note": "두 개의 who절"
+  },
+  {
+    "id": 6,
+    "source": "기출 기반 변형",
+    "sentence": "Although failure may feel discouraging, it often provides the information needed for growth.",
+    "mainVerb": "provides",
+    "acceptableVerbs": [
+      "provides",
+      "often provides"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "Although failure may feel discouraging",
+      "it",
+      "often provides the information",
+      "needed for growth"
+    ],
+    "translation": "실패는 낙담스럽게 느껴질 수 있지만, 종종 성장에 필요한 정보를 제공한다.",
+    "note": "Although절은 양보"
+  },
+  {
+    "id": 7,
+    "source": "기출 기반 변형",
+    "sentence": "The ability to delay immediate pleasure is becoming increasingly important in a distracted world.",
+    "mainVerb": "is becoming",
+    "acceptableVerbs": [
+      "becoming",
+      "is becoming"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "The ability to delay immediate pleasure",
+      "is becoming increasingly important",
+      "in a distracted world"
+    ],
+    "translation": "즉각적인 즐거움을 미루는 능력은 산만한 세상에서 점점 더 중요해지고 있다.",
+    "note": "to부정사가 ability를 꾸밈"
+  },
+  {
+    "id": 8,
+    "source": "기출 기반 변형",
+    "sentence": "If people understand why they react emotionally, they can respond more wisely.",
+    "mainVerb": "can respond",
+    "acceptableVerbs": [
+      "respond",
+      "can respond"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "If people understand",
+      "why they react emotionally",
+      "they",
+      "can respond more wisely"
+    ],
+    "translation": "사람들이 왜 감정적으로 반응하는지 이해하면 더 현명하게 대응할 수 있다.",
+    "note": "why절이 understand의 목적어"
+  },
+  {
+    "id": 9,
+    "source": "기출 기반 변형",
+    "sentence": "Information that is connected to personal experience is remembered more easily.",
+    "mainVerb": "is remembered",
+    "acceptableVerbs": [
+      "remembered",
+      "is remembered"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "Information",
+      "that is connected to personal experience",
+      "is remembered more easily"
+    ],
+    "translation": "개인적 경험과 연결된 정보는 더 쉽게 기억된다.",
+    "note": "수동태 관계사절"
+  },
+  {
+    "id": 10,
+    "source": "기출 기반 변형",
+    "sentence": "To solve complex problems, you must learn to separate the essential from the irrelevant.",
+    "mainVerb": "must learn",
+    "acceptableVerbs": [
+      "learn",
+      "must learn"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "To solve complex problems",
+      "you",
+      "must learn",
+      "to separate the essential from the irrelevant"
+    ],
+    "translation": "복잡한 문제를 해결하려면 본질적인 것과 중요하지 않은 것을 구별하는 법을 배워야 한다.",
+    "note": "목적의 to부정사"
+  },
+  {
+    "id": 11,
+    "source": "기출 기반 변형",
+    "sentence": "People tend to trust information that confirms what they already believe.",
+    "mainVerb": "tend",
+    "acceptableVerbs": [
+      "tend",
+      "tend to trust",
+      "trust"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "People",
+      "tend to trust information",
+      "that confirms",
+      "what they already believe"
+    ],
+    "translation": "사람들은 자신이 이미 믿고 있는 것을 확인해 주는 정보를 신뢰하는 경향이 있다.",
+    "note": "that절 + what절"
+  },
+  {
+    "id": 12,
+    "source": "기출 기반 변형",
+    "sentence": "When individuals work toward a shared purpose, they can achieve results beyond what any one person could reach alone.",
+    "mainVerb": "can achieve",
+    "acceptableVerbs": [
+      "achieve",
+      "can achieve"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "When individuals work toward a shared purpose",
+      "they",
+      "can achieve results beyond",
+      "what any one person could reach alone"
+    ],
+    "translation": "개인들이 공동의 목적을 향해 일할 때, 어느 한 사람이 혼자 도달할 수 있는 것을 넘어서는 결과를 이룰 수 있다.",
+    "note": "what절이 전치사 beyond의 목적어"
+  },
+  {
+    "id": 13,
+    "source": "기출 기반 변형",
+    "sentence": "The more information you consume without reflection, the harder it becomes to make wise decisions.",
+    "mainVerb": "becomes",
+    "acceptableVerbs": [
+      "becomes"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "The more information you consume without reflection",
+      "the harder it",
+      "becomes",
+      "to make wise decisions"
+    ],
+    "translation": "성찰 없이 더 많은 정보를 소비할수록 현명한 결정을 내리기가 더 어려워진다.",
+    "note": "비교급 구조"
+  },
+  {
+    "id": 14,
+    "source": "기출 기반 변형",
+    "sentence": "Many conflicts arise because people assume that others share the same background knowledge.",
+    "mainVerb": "arise",
+    "acceptableVerbs": [
+      "arise"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "Many conflicts",
+      "arise",
+      "because people assume",
+      "that others share the same background knowledge"
+    ],
+    "translation": "많은 갈등은 사람들이 다른 이들도 같은 배경지식을 공유한다고 가정하기 때문에 발생한다.",
+    "note": "because절 안의 that절"
+  },
+  {
+    "id": 15,
+    "source": "기출 기반 변형",
+    "sentence": "What you repeatedly do shapes the kind of person you eventually become.",
+    "mainVerb": "shapes",
+    "acceptableVerbs": [
+      "shapes"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "What you repeatedly do",
+      "shapes the kind of person",
+      "you eventually become"
+    ],
+    "translation": "네가 반복해서 하는 일이 결국 네가 어떤 사람이 되는지를 형성한다.",
+    "note": "what절 주어, you become은 person을 꾸밈"
+  },
+  {
+    "id": 16,
+    "source": "기출 기반 변형",
+    "sentence": "Habits that are reinforced by small rewards become stable over time.",
+    "mainVerb": "become",
+    "acceptableVerbs": [
+      "become"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "Habits",
+      "that are reinforced by small rewards",
+      "become stable over time"
+    ],
+    "translation": "작은 보상으로 강화되는 습관은 시간이 지나면서 안정된다.",
+    "note": "수동 관계사절"
+  },
+  {
+    "id": 17,
+    "source": "기출 기반 변형",
+    "sentence": "Although digital tools provide convenience, they can weaken attention when used without limits.",
+    "mainVerb": "can weaken",
+    "acceptableVerbs": [
+      "weaken",
+      "can weaken"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "Although digital tools provide convenience",
+      "they",
+      "can weaken attention",
+      "when used without limits"
+    ],
+    "translation": "디지털 도구는 편리함을 제공하지만, 제한 없이 사용되면 집중력을 약화시킬 수 있다.",
+    "note": "양보절 + 축약된 분사구문 느낌"
+  },
+  {
+    "id": 18,
+    "source": "기출 기반 변형",
+    "sentence": "The key to understanding others is to listen for what remains unspoken.",
+    "mainVerb": "is",
+    "acceptableVerbs": [
+      "is"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "The key to understanding others",
+      "is",
+      "to listen for",
+      "what remains unspoken"
+    ],
+    "translation": "다른 사람을 이해하는 핵심은 말로 표현되지 않은 것을 들으려는 데 있다.",
+    "note": "what절이 전치사 for의 목적어"
+  },
+  {
+    "id": 19,
+    "source": "기출 기반 변형",
+    "sentence": "People who evaluate evidence carefully are less likely to be misled by emotional claims.",
+    "mainVerb": "are",
+    "acceptableVerbs": [
+      "are"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "People",
+      "who evaluate evidence carefully",
+      "are less likely to be misled by emotional claims"
+    ],
+    "translation": "증거를 신중하게 평가하는 사람들은 감정적인 주장에 현혹될 가능성이 더 낮다.",
+    "note": "수동태 부정사"
+  },
+  {
+    "id": 20,
+    "source": "기출 기반 변형",
+    "sentence": "If you divide a large task into smaller steps, it becomes easier to continue.",
+    "mainVerb": "becomes",
+    "acceptableVerbs": [
+      "becomes"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "If you divide a large task into smaller steps",
+      "it",
+      "becomes easier",
+      "to continue"
+    ],
+    "translation": "큰 과제를 더 작은 단계들로 나누면 계속하기가 더 쉬워진다.",
+    "note": "조건문"
+  },
+  {
+    "id": 21,
+    "source": "기출 기반 변형",
+    "sentence": "Ideas that seem unusual at first may later be recognized as essential.",
+    "mainVerb": "may be recognized",
+    "acceptableVerbs": [
+      "recognized",
+      "be recognized",
+      "may be recognized"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "Ideas",
+      "that seem unusual at first",
+      "may later be recognized as essential"
+    ],
+    "translation": "처음에는 낯설게 보이는 생각들도 나중에는 필수적인 것으로 인정될 수 있다.",
+    "note": "수동태"
+  },
+  {
+    "id": 22,
+    "source": "기출 기반 변형",
+    "sentence": "Since memory is influenced by emotion, people often recall the feeling of an event more clearly than its details.",
+    "mainVerb": "recall",
+    "acceptableVerbs": [
+      "recall",
+      "often recall"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "Since memory is influenced by emotion",
+      "people",
+      "often recall the feeling of an event",
+      "more clearly than its details"
+    ],
+    "translation": "기억은 감정의 영향을 받기 때문에 사람들은 사건의 세부 사항보다 그때의 느낌을 더 선명하게 떠올리는 경우가 많다.",
+    "note": "Since는 이유"
+  },
+  {
+    "id": 23,
+    "source": "기출 기반 변형",
+    "sentence": "The longer you postpone action, the more energy you waste worrying about it.",
+    "mainVerb": "waste",
+    "acceptableVerbs": [
+      "waste"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "The longer you postpone action",
+      "the more energy you waste",
+      "worrying about it"
+    ],
+    "translation": "행동을 더 오래 미룰수록 그것을 걱정하는 데 더 많은 에너지를 낭비하게 된다.",
+    "note": "분사구문처럼 해석되는 -ing"
+  },
+  {
+    "id": 24,
+    "source": "기출 기반 변형",
+    "sentence": "One reason many plans fail is that people rely on motivation instead of routine.",
+    "mainVerb": "is",
+    "acceptableVerbs": [
+      "is"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "One reason many plans fail",
+      "is",
+      "that people rely on motivation",
+      "instead of routine"
+    ],
+    "translation": "많은 계획이 실패하는 한 가지 이유는 사람들이 루틴 대신 동기에 의존하기 때문이다.",
+    "note": "that절 보어"
+  },
+  {
+    "id": 25,
+    "source": "기출 기반 변형",
+    "sentence": "What appears to be talent is often the result of repeated effort over time.",
+    "mainVerb": "is",
+    "acceptableVerbs": [
+      "is"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "What appears to be talent",
+      "is often",
+      "the result of repeated effort over time"
+    ],
+    "translation": "재능처럼 보이는 것은 종종 시간에 걸친 반복적 노력의 결과이다.",
+    "note": "What절 주어"
+  },
+  {
+    "id": 26,
+    "source": "기출 기반 변형",
+    "sentence": "Researchers have found that people learn more effectively when they explain ideas in their own words.",
+    "mainVerb": "have found",
+    "acceptableVerbs": [
+      "found",
+      "have found"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "Researchers",
+      "have found",
+      "that people learn more effectively",
+      "when they explain ideas in their own words"
+    ],
+    "translation": "연구자들은 사람들이 자신의 말로 생각을 설명할 때 더 효과적으로 학습한다는 것을 발견해 왔다.",
+    "note": "that절 목적어, when절 시간"
+  },
+  {
+    "id": 27,
+    "source": "기출 기반 변형",
+    "sentence": "To maintain concentration, you should reduce the number of decisions that compete for attention.",
+    "mainVerb": "should reduce",
+    "acceptableVerbs": [
+      "reduce",
+      "should reduce"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "To maintain concentration",
+      "you",
+      "should reduce the number of decisions",
+      "that compete for attention"
+    ],
+    "translation": "집중력을 유지하려면 주의를 두고 경쟁하는 결정의 수를 줄여야 한다.",
+    "note": "that절은 decisions를 꾸밈"
+  },
+  {
+    "id": 28,
+    "source": "기출 기반 변형",
+    "sentence": "When people feel respected, they are more willing to reconsider their views.",
+    "mainVerb": "are",
+    "acceptableVerbs": [
+      "are",
+      "are willing",
+      "willing"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "When people feel respected",
+      "they",
+      "are more willing",
+      "to reconsider their views"
+    ],
+    "translation": "사람들은 존중받는다고 느낄 때 자신의 관점을 다시 생각해 볼 의향이 더 커진다.",
+    "note": "be willing to"
+  },
+  {
+    "id": 29,
+    "source": "기출 기반 변형",
+    "sentence": "The more clearly you define a problem, the easier it is to discover a solution.",
+    "mainVerb": "is",
+    "acceptableVerbs": [
+      "is"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "The more clearly you define a problem",
+      "the easier it",
+      "is",
+      "to discover a solution"
+    ],
+    "translation": "문제를 더 명확하게 정의할수록 해결책을 발견하기가 더 쉬워진다.",
+    "note": "비교급 구조"
+  },
+  {
+    "id": 30,
+    "source": "기출 기반 변형",
+    "sentence": "Some of the most valuable lessons come from experiences that were never originally intended to teach us anything.",
+    "mainVerb": "come",
+    "acceptableVerbs": [
+      "come"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "Some of the most valuable lessons",
+      "come from experiences",
+      "that were never originally intended to teach us anything"
+    ],
+    "translation": "가장 가치 있는 교훈들 중 일부는 애초에 우리에게 아무것도 가르치려 의도되지 않았던 경험들에서 나온다.",
+    "note": "관계사절 수동태"
+  },
+  {
+    "id": 31,
+    "source": "기출 기반 변형",
+    "sentence": "People rarely change their minds unless they feel safe enough to question themselves.",
+    "mainVerb": "change",
+    "acceptableVerbs": [
+      "change",
+      "rarely change"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "People",
+      "rarely change their minds",
+      "unless they feel safe enough to question themselves"
+    ],
+    "translation": "사람들은 스스로를 의심해 볼 만큼 충분히 안전하다고 느끼지 않는 한 좀처럼 생각을 바꾸지 않는다.",
+    "note": "unless = if not"
+  },
+  {
+    "id": 32,
+    "source": "기출 기반 변형",
+    "sentence": "Because habits reduce the need for decision making, they free mental energy for harder tasks.",
+    "mainVerb": "free",
+    "acceptableVerbs": [
+      "free"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "Because habits reduce the need for decision making",
+      "they",
+      "free mental energy",
+      "for harder tasks"
+    ],
+    "translation": "습관은 결정을 내릴 필요를 줄여 주기 때문에 더 어려운 과제를 위한 정신적 에너지를 확보해 준다.",
+    "note": "Because절 이유"
+  },
+  {
+    "id": 33,
+    "source": "기출 기반 변형",
+    "sentence": "The first step in solving a misunderstanding is to notice the assumptions behind it.",
+    "mainVerb": "is",
+    "acceptableVerbs": [
+      "is"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "The first step in solving a misunderstanding",
+      "is",
+      "to notice",
+      "the assumptions behind it"
+    ],
+    "translation": "오해를 해결하는 첫 단계는 그 뒤에 있는 가정을 알아차리는 것이다.",
+    "note": "to notice가 보어"
+  },
+  {
+    "id": 34,
+    "source": "기출 기반 변형",
+    "sentence": "Although rewards can increase effort in the short term, they may weaken intrinsic interest.",
+    "mainVerb": "may weaken",
+    "acceptableVerbs": [
+      "weaken",
+      "may weaken"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "Although rewards can increase effort",
+      "in the short term",
+      "they",
+      "may weaken intrinsic interest"
+    ],
+    "translation": "보상은 단기적으로 노력을 증가시킬 수 있지만, 내재적 흥미를 약화시킬 수도 있다.",
+    "note": "Although 양보절"
+  },
+  {
+    "id": 35,
+    "source": "기출 기반 변형",
+    "sentence": "What seems efficient in the moment may create hidden costs that appear only later.",
+    "mainVerb": "may create",
+    "acceptableVerbs": [
+      "create",
+      "may create"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "What seems efficient in the moment",
+      "may create",
+      "hidden costs",
+      "that appear only later"
+    ],
+    "translation": "그 순간에는 효율적으로 보이는 것이 나중에야 드러나는 숨은 비용을 만들어 낼 수 있다.",
+    "note": "what절 주어"
+  },
+  {
+    "id": 36,
+    "source": "기출 기반 변형",
+    "sentence": "When children are encouraged to ask questions, they begin to see learning as active exploration.",
+    "mainVerb": "begin",
+    "acceptableVerbs": [
+      "begin",
+      "begin to see"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "When children are encouraged to ask questions",
+      "they",
+      "begin",
+      "to see learning as active exploration"
+    ],
+    "translation": "아이들이 질문하도록 장려될 때, 그들은 학습을 능동적인 탐구로 보기 시작한다.",
+    "note": "수동태 + to부정사"
+  },
+  {
+    "id": 37,
+    "source": "기출 기반 변형",
+    "sentence": "The better you understand your own biases, the less power they have over your judgment.",
+    "mainVerb": "have",
+    "acceptableVerbs": [
+      "have"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "The better you understand your own biases",
+      "the less power they have",
+      "over your judgment"
+    ],
+    "translation": "자신의 편향을 더 잘 이해할수록 그것들이 네 판단에 미치는 힘은 더 약해진다.",
+    "note": "비교급 구조"
+  },
+  {
+    "id": 38,
+    "source": "기출 기반 변형",
+    "sentence": "Messages that appeal to fear spread quickly because they demand immediate reaction rather than reflection.",
+    "mainVerb": "spread",
+    "acceptableVerbs": [
+      "spread"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "Messages",
+      "that appeal to fear",
+      "spread quickly",
+      "because they demand immediate reaction rather than reflection"
+    ],
+    "translation": "두려움에 호소하는 메시지는 성찰보다 즉각적인 반응을 요구하기 때문에 빠르게 퍼진다.",
+    "note": "because절 이유"
+  },
+  {
+    "id": 39,
+    "source": "기출 기반 변형",
+    "sentence": "To remember what you read, you should pause and connect it with prior knowledge.",
+    "mainVerb": "should pause",
+    "acceptableVerbs": [
+      "pause",
+      "should pause"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "To remember what you read",
+      "you",
+      "should pause",
+      "and connect it with prior knowledge"
+    ],
+    "translation": "읽은 것을 기억하려면 잠시 멈추고 그것을 기존 지식과 연결해야 한다.",
+    "note": "what절 목적어"
+  },
+  {
+    "id": 40,
+    "source": "기출 기반 변형",
+    "sentence": "People who are aware of their limits are often more open to learning from others.",
+    "mainVerb": "are",
+    "acceptableVerbs": [
+      "are"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "People",
+      "who are aware of their limits",
+      "are often more open to learning from others"
+    ],
+    "translation": "자신의 한계를 아는 사람들은 종종 다른 사람에게서 배우는 데 더 열려 있다.",
+    "note": "aware of"
+  },
+  {
+    "id": 41,
+    "source": "기출 기반 변형",
+    "sentence": "Because attention is limited, every choice to focus on one thing is also a choice to ignore another.",
+    "mainVerb": "is",
+    "acceptableVerbs": [
+      "is"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "Because attention is limited",
+      "every choice",
+      "to focus on one thing",
+      "is also a choice to ignore another"
+    ],
+    "translation": "주의력은 제한되어 있기 때문에 한 가지에 집중하기로 하는 모든 선택은 동시에 다른 것을 무시하기로 하는 선택이기도 하다.",
+    "note": "to focus는 choice를 꾸밈"
+  },
+  {
+    "id": 42,
+    "source": "기출 기반 변형",
+    "sentence": "The more often you explain an idea, the more clearly its weak points become visible.",
+    "mainVerb": "become",
+    "acceptableVerbs": [
+      "become"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "The more often you explain an idea",
+      "the more clearly its weak points",
+      "become visible"
+    ],
+    "translation": "생각을 더 자주 설명할수록 그것의 약한 지점들이 더 분명하게 드러난다.",
+    "note": "비교급 구조"
+  },
+  {
+    "id": 43,
+    "source": "기출 기반 변형",
+    "sentence": "What people call luck is sometimes the result of preparation meeting opportunity.",
+    "mainVerb": "is",
+    "acceptableVerbs": [
+      "is"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "What people call luck",
+      "is sometimes",
+      "the result of preparation meeting opportunity"
+    ],
+    "translation": "사람들이 운이라고 부르는 것은 때때로 준비가 기회와 만난 결과이다.",
+    "note": "What절 주어"
+  },
+  {
+    "id": 44,
+    "source": "기출 기반 변형",
+    "sentence": "If a goal is too vague, it becomes difficult to know whether progress is being made.",
+    "mainVerb": "becomes",
+    "acceptableVerbs": [
+      "becomes"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "If a goal is too vague",
+      "it",
+      "becomes difficult",
+      "to know whether progress is being made"
+    ],
+    "translation": "목표가 너무 막연하면 진전이 이루어지고 있는지 알기 어려워진다.",
+    "note": "whether절 목적어"
+  },
+  {
+    "id": 45,
+    "source": "기출 기반 변형",
+    "sentence": "Students learn more deeply when they compare different ways of solving the same problem.",
+    "mainVerb": "learn",
+    "acceptableVerbs": [
+      "learn"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "Students",
+      "learn more deeply",
+      "when they compare different ways of solving the same problem"
+    ],
+    "translation": "학생들은 같은 문제를 푸는 서로 다른 방법을 비교할 때 더 깊이 학습한다.",
+    "note": "when절 시간"
+  },
+  {
+    "id": 46,
+    "source": "기출 기반 변형",
+    "sentence": "Although people seek certainty, growth often begins when certainty is questioned.",
+    "mainVerb": "begins",
+    "acceptableVerbs": [
+      "begins",
+      "often begins"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "Although people seek certainty",
+      "growth",
+      "often begins",
+      "when certainty is questioned"
+    ],
+    "translation": "사람들은 확실성을 추구하지만, 성장은 종종 그 확실성이 의문시될 때 시작된다.",
+    "note": "양보절 + 수동태"
+  },
+  {
+    "id": 47,
+    "source": "기출 기반 변형",
+    "sentence": "The habit of checking your understanding prevents confusion from building unnoticed.",
+    "mainVerb": "prevents",
+    "acceptableVerbs": [
+      "prevents"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "The habit of checking your understanding",
+      "prevents confusion",
+      "from building unnoticed"
+    ],
+    "translation": "이해를 점검하는 습관은 혼란이 모르는 사이에 쌓이는 것을 막아 준다.",
+    "note": "prevent A from B"
+  },
+  {
+    "id": 48,
+    "source": "기출 기반 변형",
+    "sentence": "People who listen only for agreement may miss ideas that could improve their thinking.",
+    "mainVerb": "may miss",
+    "acceptableVerbs": [
+      "miss",
+      "may miss"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "People",
+      "who listen only for agreement",
+      "may miss ideas",
+      "that could improve their thinking"
+    ],
+    "translation": "동의만 들으려는 사람들은 자신의 사고를 향상시킬 수 있는 생각들을 놓칠 수 있다.",
+    "note": "that절은 ideas를 꾸밈"
+  },
+  {
+    "id": 49,
+    "source": "기출 기반 변형",
+    "sentence": "To build confidence, you need repeated experiences of doing difficult things successfully.",
+    "mainVerb": "need",
+    "acceptableVerbs": [
+      "need"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "To build confidence",
+      "you need",
+      "repeated experiences of doing difficult things successfully"
+    ],
+    "translation": "자신감을 기르려면 어려운 일을 성공적으로 해내는 반복된 경험이 필요하다.",
+    "note": "목적의 to부정사"
+  },
+  {
+    "id": 50,
+    "source": "기출 기반 변형",
+    "sentence": "What is familiar is not always what is true.",
+    "mainVerb": "is",
+    "acceptableVerbs": [
+      "is"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "What is familiar",
+      "is not always",
+      "what is true"
+    ],
+    "translation": "익숙한 것이 항상 진실인 것은 아니다.",
+    "note": "what절 주어와 보어"
+  },
+  {
+    "id": 51,
+    "source": "기출 기반 변형",
+    "sentence": "Because environments shape behavior, small changes in context can produce large differences in action.",
+    "mainVerb": "can produce",
+    "acceptableVerbs": [
+      "produce",
+      "can produce"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "Because environments shape behavior",
+      "small changes in context",
+      "can produce",
+      "large differences in action"
+    ],
+    "translation": "환경은 행동을 형성하기 때문에 맥락의 작은 변화가 행동의 큰 차이를 만들어 낼 수 있다.",
+    "note": "Because절 이유"
+  },
+  {
+    "id": 52,
+    "source": "기출 기반 변형",
+    "sentence": "The more carefully you define a term, the less likely people are to misunderstand you.",
+    "mainVerb": "are",
+    "acceptableVerbs": [
+      "are",
+      "are to misunderstand"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "The more carefully you define a term",
+      "the less likely people",
+      "are",
+      "to misunderstand you"
+    ],
+    "translation": "용어를 더 신중하게 정의할수록 사람들은 너를 오해할 가능성이 더 낮아진다.",
+    "note": "비교급 구조"
+  },
+  {
+    "id": 53,
+    "source": "기출 기반 변형",
+    "sentence": "When people feel rushed, they often choose what is easy rather than what is important.",
+    "mainVerb": "choose",
+    "acceptableVerbs": [
+      "choose",
+      "often choose"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "When people feel rushed",
+      "they",
+      "often choose",
+      "what is easy rather than what is important"
+    ],
+    "translation": "사람들은 촉박하다고 느낄 때 종종 중요한 것보다 쉬운 것을 선택한다.",
+    "note": "what절 병렬"
+  },
+  {
+    "id": 54,
+    "source": "기출 기반 변형",
+    "sentence": "One of the best ways to understand an argument is to restate it fairly before criticizing it.",
+    "mainVerb": "is",
+    "acceptableVerbs": [
+      "is"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "One of the best ways to understand an argument",
+      "is",
+      "to restate it fairly",
+      "before criticizing it"
+    ],
+    "translation": "주장을 이해하는 가장 좋은 방법 중 하나는 그것을 비판하기 전에 공정하게 다시 말해 보는 것이다.",
+    "note": "before + 동명사"
+  },
+  {
+    "id": 55,
+    "source": "기출 기반 변형",
+    "sentence": "Ideas that challenge our assumptions are often the ones that help us grow.",
+    "mainVerb": "are",
+    "acceptableVerbs": [
+      "are"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "Ideas",
+      "that challenge our assumptions",
+      "are often the ones that help us grow"
+    ],
+    "translation": "우리의 가정에 도전하는 생각들이 종종 우리를 성장하게 돕는 것들이다.",
+    "note": "the ones 뒤 that절 포함"
+  },
+  {
+    "id": 56,
+    "source": "기출 기반 변형",
+    "sentence": "Although memory feels accurate, it is constantly reconstructed each time we recall an event.",
+    "mainVerb": "is reconstructed",
+    "acceptableVerbs": [
+      "reconstructed",
+      "is reconstructed"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "Although memory feels accurate",
+      "it",
+      "is constantly reconstructed",
+      "each time we recall an event"
+    ],
+    "translation": "기억은 정확하게 느껴지지만, 사건을 떠올릴 때마다 계속 재구성된다.",
+    "note": "수동태"
+  },
+  {
+    "id": 57,
+    "source": "기출 기반 변형",
+    "sentence": "To become better readers, students must learn to recognize which details support the main idea.",
+    "mainVerb": "must learn",
+    "acceptableVerbs": [
+      "learn",
+      "must learn"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "To become better readers",
+      "students",
+      "must learn",
+      "to recognize which details support the main idea"
+    ],
+    "translation": "더 나은 독자가 되려면 학생들은 어떤 세부 사항이 중심 생각을 뒷받침하는지 알아보는 법을 배워야 한다.",
+    "note": "which절은 recognize의 목적어절"
+  },
+  {
+    "id": 58,
+    "source": "기출 기반 변형",
+    "sentence": "People are more likely to keep promises that are connected to their identity.",
+    "mainVerb": "are",
+    "acceptableVerbs": [
+      "are"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "People",
+      "are more likely to keep promises",
+      "that are connected to their identity"
+    ],
+    "translation": "사람들은 자신의 정체성과 연결된 약속을 더 잘 지키는 경향이 있다.",
+    "note": "that절은 promises를 꾸밈"
+  },
+  {
+    "id": 59,
+    "source": "기출 기반 변형",
+    "sentence": "Because feedback reveals gaps between intention and result, it is essential for improvement.",
+    "mainVerb": "is",
+    "acceptableVerbs": [
+      "is"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "Because feedback reveals gaps between intention and result",
+      "it",
+      "is essential",
+      "for improvement"
+    ],
+    "translation": "피드백은 의도와 결과 사이의 차이를 드러내기 때문에 향상에 필수적이다.",
+    "note": "Because절 이유"
+  },
+  {
+    "id": 60,
+    "source": "기출 기반 변형",
+    "sentence": "The more precisely you observe, the more patterns you can detect.",
+    "mainVerb": "can detect",
+    "acceptableVerbs": [
+      "detect",
+      "can detect"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "The more precisely you observe",
+      "the more patterns you",
+      "can detect"
+    ],
+    "translation": "더 정확하게 관찰할수록 더 많은 패턴을 찾아낼 수 있다.",
+    "note": "비교급 구조"
+  },
+  {
+    "id": 61,
+    "source": "기출 기반 변형",
+    "sentence": "What looks like laziness may actually be uncertainty about where to begin.",
+    "mainVerb": "may be",
+    "acceptableVerbs": [
+      "be",
+      "may be"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "What looks like laziness",
+      "may actually be",
+      "uncertainty about where to begin"
+    ],
+    "translation": "게으름처럼 보이는 것은 사실 어디서 시작해야 할지에 대한 불확실성일 수 있다.",
+    "note": "what절 주어"
+  },
+  {
+    "id": 62,
+    "source": "기출 기반 변형",
+    "sentence": "If people are given time to reflect, they often make more balanced judgments.",
+    "mainVerb": "make",
+    "acceptableVerbs": [
+      "make",
+      "often make"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "If people are given time to reflect",
+      "they",
+      "often make",
+      "more balanced judgments"
+    ],
+    "translation": "사람들에게 성찰할 시간이 주어지면 그들은 종종 더 균형 잡힌 판단을 내린다.",
+    "note": "수동태 조건절"
+  },
+  {
+    "id": 63,
+    "source": "기출 기반 변형",
+    "sentence": "The goal of discussion is not to defeat others but to reach a clearer understanding together.",
+    "mainVerb": "is",
+    "acceptableVerbs": [
+      "is"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "The goal of discussion",
+      "is not",
+      "to defeat others",
+      "but to reach a clearer understanding together"
+    ],
+    "translation": "토론의 목표는 다른 사람을 이기는 것이 아니라 함께 더 분명한 이해에 도달하는 것이다.",
+    "note": "not A but B"
+  },
+  {
+    "id": 64,
+    "source": "기출 기반 변형",
+    "sentence": "Ideas spread more easily when they are simple enough to remember and vivid enough to repeat.",
+    "mainVerb": "spread",
+    "acceptableVerbs": [
+      "spread"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "Ideas",
+      "spread more easily",
+      "when they are simple enough to remember and vivid enough to repeat"
+    ],
+    "translation": "생각은 기억하기에 충분히 단순하고 반복하기에 충분히 생생할 때 더 쉽게 퍼진다.",
+    "note": "enough to 구문"
+  },
+  {
+    "id": 65,
+    "source": "기출 기반 변형",
+    "sentence": "Although rules can guide behavior, values determine what people do when no one is watching.",
+    "mainVerb": "determine",
+    "acceptableVerbs": [
+      "determine"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "Although rules can guide behavior",
+      "values",
+      "determine",
+      "what people do when no one is watching"
+    ],
+    "translation": "규칙은 행동을 이끌 수 있지만, 아무도 보고 있지 않을 때 사람들이 무엇을 하는지는 가치관이 결정한다.",
+    "note": "what절 목적어"
+  },
+  {
+    "id": 66,
+    "source": "기출 기반 변형",
+    "sentence": "To avoid repeating mistakes, you need to understand not only what happened but why it happened.",
+    "mainVerb": "need",
+    "acceptableVerbs": [
+      "need"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "To avoid repeating mistakes",
+      "you need",
+      "to understand not only what happened",
+      "but why it happened"
+    ],
+    "translation": "실수를 반복하지 않으려면 무엇이 일어났는지뿐 아니라 왜 그것이 일어났는지 이해해야 한다.",
+    "note": "not only A but B"
+  },
+  {
+    "id": 67,
+    "source": "기출 기반 변형",
+    "sentence": "People who are trusted with responsibility usually grow into it.",
+    "mainVerb": "grow",
+    "acceptableVerbs": [
+      "grow",
+      "usually grow"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "People",
+      "who are trusted with responsibility",
+      "usually grow into it"
+    ],
+    "translation": "책임을 맡을 수 있다고 신뢰받는 사람들은 대개 그 책임감에 걸맞게 성장한다.",
+    "note": "grow into"
+  },
+  {
+    "id": 68,
+    "source": "기출 기반 변형",
+    "sentence": "Because stress narrows attention, people may overlook solutions that would otherwise seem obvious.",
+    "mainVerb": "may overlook",
+    "acceptableVerbs": [
+      "overlook",
+      "may overlook"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "Because stress narrows attention",
+      "people",
+      "may overlook solutions",
+      "that would otherwise seem obvious"
+    ],
+    "translation": "스트레스는 주의를 좁히기 때문에 사람들은 그렇지 않았다면 분명해 보였을 해결책을 놓칠 수 있다.",
+    "note": "that절은 solutions를 꾸밈"
+  },
+  {
+    "id": 69,
+    "source": "기출 기반 변형",
+    "sentence": "The more examples you encounter, the easier it becomes to recognize the underlying pattern.",
+    "mainVerb": "becomes",
+    "acceptableVerbs": [
+      "becomes"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "The more examples you encounter",
+      "the easier it",
+      "becomes",
+      "to recognize the underlying pattern"
+    ],
+    "translation": "더 많은 예시를 접할수록 그 밑에 깔린 패턴을 알아보기 쉬워진다.",
+    "note": "비교급 구조"
+  },
+  {
+    "id": 70,
+    "source": "기출 기반 변형",
+    "sentence": "What people resist is often not change itself but the loss of control that seems to come with it.",
+    "mainVerb": "is",
+    "acceptableVerbs": [
+      "is"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "What people resist",
+      "is often not change itself",
+      "but the loss of control",
+      "that seems to come with it"
+    ],
+    "translation": "사람들이 저항하는 것은 종종 변화 그 자체가 아니라 그것과 함께 오는 것처럼 보이는 통제력의 상실이다.",
+    "note": "what절 주어"
+  },
+  {
+    "id": 71,
+    "source": "기출 기반 변형",
+    "sentence": "When students explain why an answer is wrong, they often learn more than when they explain why it is right.",
+    "mainVerb": "learn",
+    "acceptableVerbs": [
+      "learn",
+      "often learn"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "When students explain why an answer is wrong",
+      "they",
+      "often learn more",
+      "than when they explain why it is right"
+    ],
+    "translation": "학생들은 왜 어떤 답이 틀렸는지 설명할 때, 왜 그것이 맞는지 설명할 때보다 종종 더 많이 배운다.",
+    "note": "than 비교구문"
+  },
+  {
+    "id": 72,
+    "source": "기출 기반 변형",
+    "sentence": "The habit of asking what evidence supports a claim protects you from easy persuasion.",
+    "mainVerb": "protects",
+    "acceptableVerbs": [
+      "protects"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "The habit of asking what evidence supports a claim",
+      "protects you",
+      "from easy persuasion"
+    ],
+    "translation": "어떤 주장을 뒷받침하는 증거가 무엇인지 묻는 습관은 너를 쉽게 설득당하는 것으로부터 지켜 준다.",
+    "note": "what절은 asking의 목적어"
+  },
+  {
+    "id": 73,
+    "source": "기출 기반 변형",
+    "sentence": "Although progress may be slow at first, repeated effort changes what feels possible.",
+    "mainVerb": "changes",
+    "acceptableVerbs": [
+      "changes"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "Although progress may be slow at first",
+      "repeated effort",
+      "changes",
+      "what feels possible"
+    ],
+    "translation": "처음에는 진전이 느릴 수 있지만, 반복된 노력은 가능하게 느껴지는 것을 바꾼다.",
+    "note": "what절 목적어"
+  },
+  {
+    "id": 74,
+    "source": "기출 기반 변형",
+    "sentence": "To communicate clearly, you must decide which details matter and which ones distract.",
+    "mainVerb": "must decide",
+    "acceptableVerbs": [
+      "decide",
+      "must decide"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "To communicate clearly",
+      "you",
+      "must decide",
+      "which details matter and which ones distract"
+    ],
+    "translation": "명확하게 의사소통하려면 어떤 세부 사항이 중요하고 어떤 것들이 주의를 흩트리는지 결정해야 한다.",
+    "note": "which절 병렬"
+  },
+  {
+    "id": 75,
+    "source": "기출 기반 변형",
+    "sentence": "People are more persuasive when they show that they have considered opposing views fairly.",
+    "mainVerb": "are",
+    "acceptableVerbs": [
+      "are"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "People",
+      "are more persuasive",
+      "when they show that they have considered opposing views fairly"
+    ],
+    "translation": "사람들은 반대 의견을 공정하게 고려했다는 것을 보여 줄 때 더 설득력 있다.",
+    "note": "that절은 show의 목적어"
+  },
+  {
+    "id": 76,
+    "source": "기출 기반 변형",
+    "sentence": "Because goals guide attention, the questions you ask influence the answers you find.",
+    "mainVerb": "influence",
+    "acceptableVerbs": [
+      "influence"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "Because goals guide attention",
+      "the questions you ask",
+      "influence",
+      "the answers you find"
+    ],
+    "translation": "목표는 주의를 이끌기 때문에 네가 던지는 질문이 네가 찾는 답에 영향을 준다.",
+    "note": "관계사 생략된 you ask / you find"
+  },
+  {
+    "id": 77,
+    "source": "기출 기반 변형",
+    "sentence": "The more patiently you observe a process, the more accurately you can predict its result.",
+    "mainVerb": "can predict",
+    "acceptableVerbs": [
+      "predict",
+      "can predict"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "The more patiently you observe a process",
+      "the more accurately you",
+      "can predict its result"
+    ],
+    "translation": "과정을 더 인내심 있게 관찰할수록 그 결과를 더 정확하게 예측할 수 있다.",
+    "note": "비교급 구조"
+  },
+  {
+    "id": 78,
+    "source": "기출 기반 변형",
+    "sentence": "What people remember from a lesson is often shaped by the emotion they felt while learning it.",
+    "mainVerb": "is shaped",
+    "acceptableVerbs": [
+      "shaped",
+      "is shaped"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "What people remember from a lesson",
+      "is often shaped",
+      "by the emotion",
+      "they felt while learning it"
+    ],
+    "translation": "사람들이 수업에서 기억하는 것은 종종 그것을 배우는 동안 느꼈던 감정에 의해 형성된다.",
+    "note": "관계사 생략된 they felt"
+  },
+  {
+    "id": 79,
+    "source": "기출 기반 변형",
+    "sentence": "If people feel ownership of a plan, they are more willing to invest effort in it.",
+    "mainVerb": "are",
+    "acceptableVerbs": [
+      "are",
+      "are willing",
+      "willing"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "If people feel ownership of a plan",
+      "they",
+      "are more willing",
+      "to invest effort in it"
+    ],
+    "translation": "사람들이 계획에 대한 주인의식을 느끼면 그것에 노력을 들일 의향이 더 커진다.",
+    "note": "be willing to"
+  },
+  {
+    "id": 80,
+    "source": "기출 기반 변형",
+    "sentence": "The purpose of reviewing mistakes is not to feel ashamed but to see what needs to change.",
+    "mainVerb": "is",
+    "acceptableVerbs": [
+      "is"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "The purpose of reviewing mistakes",
+      "is not",
+      "to feel ashamed",
+      "but to see what needs to change"
+    ],
+    "translation": "실수를 복습하는 목적은 부끄러움을 느끼는 것이 아니라 무엇이 바뀌어야 하는지 보는 것이다.",
+    "note": "what절 목적어"
+  },
+  {
+    "id": 81,
+    "source": "기출 기반 변형",
+    "sentence": "Ideas that connect separate fields often produce insights that specialists alone might miss.",
+    "mainVerb": "produce",
+    "acceptableVerbs": [
+      "produce",
+      "often produce"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "Ideas",
+      "that connect separate fields",
+      "often produce insights",
+      "that specialists alone might miss"
+    ],
+    "translation": "서로 다른 분야를 연결하는 생각들은 종종 전문가들만으로는 놓칠 수 있는 통찰을 만들어 낸다.",
+    "note": "두 개의 that절"
+  },
+  {
+    "id": 82,
+    "source": "기출 기반 변형",
+    "sentence": "Although routines may seem restrictive, they can create the freedom needed for creativity.",
+    "mainVerb": "can create",
+    "acceptableVerbs": [
+      "create",
+      "can create"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "Although routines may seem restrictive",
+      "they",
+      "can create",
+      "the freedom needed for creativity"
+    ],
+    "translation": "루틴은 제한적으로 보일 수 있지만, 창의성에 필요한 자유를 만들어 낼 수 있다.",
+    "note": "needed는 freedom을 꾸밈"
+  },
+  {
+    "id": 83,
+    "source": "기출 기반 변형",
+    "sentence": "To understand a system, you must notice not only its parts but also how they interact.",
+    "mainVerb": "must notice",
+    "acceptableVerbs": [
+      "notice",
+      "must notice"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "To understand a system",
+      "you",
+      "must notice not only its parts",
+      "but also how they interact"
+    ],
+    "translation": "체계를 이해하려면 그 부분들뿐 아니라 그것들이 어떻게 상호작용하는지도 알아차려야 한다.",
+    "note": "not only A but also B"
+  },
+  {
+    "id": 84,
+    "source": "기출 기반 변형",
+    "sentence": "People who monitor their own thinking are better able to correct mistakes before those mistakes grow.",
+    "mainVerb": "are able",
+    "acceptableVerbs": [
+      "able",
+      "are able",
+      "correct"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "People",
+      "who monitor their own thinking",
+      "are better able",
+      "to correct mistakes before those mistakes grow"
+    ],
+    "translation": "자신의 사고를 점검하는 사람들은 그 실수들이 커지기 전에 더 잘 바로잡을 수 있다.",
+    "note": "be able to"
+  },
+  {
+    "id": 85,
+    "source": "기출 기반 변형",
+    "sentence": "Because people learn differently, no single method works equally well for everyone.",
+    "mainVerb": "works",
+    "acceptableVerbs": [
+      "works"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "Because people learn differently",
+      "no single method",
+      "works equally well for everyone"
+    ],
+    "translation": "사람들은 서로 다르게 배우기 때문에 어떤 한 가지 방법도 모두에게 똑같이 잘 작동하지는 않는다.",
+    "note": "Because절 이유"
+  },
+  {
+    "id": 86,
+    "source": "기출 기반 변형",
+    "sentence": "The more carefully a question is framed, the more useful the answer becomes.",
+    "mainVerb": "becomes",
+    "acceptableVerbs": [
+      "becomes"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "The more carefully a question is framed",
+      "the more useful the answer",
+      "becomes"
+    ],
+    "translation": "질문이 더 신중하게 짜일수록 그 답은 더 유용해진다.",
+    "note": "비교급 구조"
+  },
+  {
+    "id": 87,
+    "source": "기출 기반 변형",
+    "sentence": "What feels natural to experts may remain invisible to beginners who need explicit guidance.",
+    "mainVerb": "may remain",
+    "acceptableVerbs": [
+      "remain",
+      "may remain"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "What feels natural to experts",
+      "may remain invisible",
+      "to beginners",
+      "who need explicit guidance"
+    ],
+    "translation": "전문가에게는 자연스럽게 느껴지는 것이 명시적인 안내가 필요한 초보자에게는 보이지 않은 채로 남아 있을 수 있다.",
+    "note": "who절은 beginners를 꾸밈"
+  },
+  {
+    "id": 88,
+    "source": "기출 기반 변형",
+    "sentence": "If attention is divided among too many tasks, none of them receives the effort required for excellence.",
+    "mainVerb": "receives",
+    "acceptableVerbs": [
+      "receives"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "If attention is divided among too many tasks",
+      "none of them",
+      "receives",
+      "the effort required for excellence"
+    ],
+    "translation": "주의가 너무 많은 과제들 사이에 나뉘면 그 어느 것도 탁월함에 필요한 노력을 받지 못한다.",
+    "note": "required는 effort를 꾸밈"
+  },
+  {
+    "id": 89,
+    "source": "기출 기반 변형",
+    "sentence": "The point of feedback is to reveal what you cannot easily see on your own.",
+    "mainVerb": "is",
+    "acceptableVerbs": [
+      "is"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "The point of feedback",
+      "is",
+      "to reveal",
+      "what you cannot easily see on your own"
+    ],
+    "translation": "피드백의 요점은 네가 혼자서는 쉽게 볼 수 없는 것을 드러내는 데 있다.",
+    "note": "what절 목적어"
+  },
+  {
+    "id": 90,
+    "source": "기출 기반 변형",
+    "sentence": "Ideas become memorable when they are linked to images, stories, or surprising contrasts.",
+    "mainVerb": "become",
+    "acceptableVerbs": [
+      "become"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "Ideas",
+      "become memorable",
+      "when they are linked to images, stories, or surprising contrasts"
+    ],
+    "translation": "생각은 이미지, 이야기, 혹은 놀라운 대비와 연결될 때 기억에 남게 된다.",
+    "note": "수동태"
+  },
+  {
+    "id": 91,
+    "source": "기출 기반 변형",
+    "sentence": "Although success is often visible, the discipline that supports it is usually hidden.",
+    "mainVerb": "is hidden",
+    "acceptableVerbs": [
+      "hidden",
+      "is hidden"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "Although success is often visible",
+      "the discipline",
+      "that supports it",
+      "is usually hidden"
+    ],
+    "translation": "성공은 종종 눈에 보이지만, 그것을 떠받치는 규율은 대개 보이지 않는다.",
+    "note": "that절은 discipline을 꾸밈"
+  },
+  {
+    "id": 92,
+    "source": "기출 기반 변형",
+    "sentence": "To improve judgment, you should compare your predictions with what actually happens.",
+    "mainVerb": "should compare",
+    "acceptableVerbs": [
+      "compare",
+      "should compare"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "To improve judgment",
+      "you",
+      "should compare your predictions",
+      "with what actually happens"
+    ],
+    "translation": "판단력을 향상시키려면 자신의 예측을 실제로 일어나는 일과 비교해야 한다.",
+    "note": "what절 전치사 목적어"
+  },
+  {
+    "id": 93,
+    "source": "기출 기반 변형",
+    "sentence": "People are more motivated when they understand how their effort contributes to a larger purpose.",
+    "mainVerb": "are",
+    "acceptableVerbs": [
+      "are"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "People",
+      "are more motivated",
+      "when they understand how their effort contributes to a larger purpose"
+    ],
+    "translation": "사람들은 자신의 노력이 더 큰 목적에 어떻게 기여하는지 이해할 때 더 동기부여된다.",
+    "note": "how절 목적어"
+  },
+  {
+    "id": 94,
+    "source": "기출 기반 변형",
+    "sentence": "Because language shapes thought, the words you choose influence what becomes easy to notice.",
+    "mainVerb": "influence",
+    "acceptableVerbs": [
+      "influence"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "Because language shapes thought",
+      "the words you choose",
+      "influence",
+      "what becomes easy to notice"
+    ],
+    "translation": "언어는 사고를 형성하기 때문에 네가 선택하는 단어가 무엇을 쉽게 알아차리게 되는지에 영향을 준다.",
+    "note": "what절 목적어"
+  },
+  {
+    "id": 95,
+    "source": "기출 기반 변형",
+    "sentence": "The more honestly you assess your progress, the more effectively you can adjust your strategy.",
+    "mainVerb": "can adjust",
+    "acceptableVerbs": [
+      "adjust",
+      "can adjust"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "The more honestly you assess your progress",
+      "the more effectively you",
+      "can adjust your strategy"
+    ],
+    "translation": "자신의 진전을 더 솔직하게 평가할수록 전략을 더 효과적으로 조정할 수 있다.",
+    "note": "비교급 구조"
+  },
+  {
+    "id": 96,
+    "source": "기출 기반 변형",
+    "sentence": "What keeps curiosity alive is the sense that there is always more to understand.",
+    "mainVerb": "is",
+    "acceptableVerbs": [
+      "is"
+    ],
+    "targetChunks": 3,
+    "chunks": [
+      "What keeps curiosity alive",
+      "is",
+      "the sense that there is always more to understand"
+    ],
+    "translation": "호기심을 살아 있게 하는 것은 언제나 더 이해할 것이 남아 있다는 감각이다.",
+    "note": "that절은 sense를 설명"
+  },
+  {
+    "id": 97,
+    "source": "기출 기반 변형",
+    "sentence": "If students practice retrieving information from memory, they strengthen the learning more than by rereading.",
+    "mainVerb": "strengthen",
+    "acceptableVerbs": [
+      "strengthen"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "If students practice retrieving information from memory",
+      "they",
+      "strengthen the learning",
+      "more than by rereading"
+    ],
+    "translation": "학생들이 기억에서 정보를 끌어내는 연습을 하면 다시 읽는 것보다 학습을 더 강화한다.",
+    "note": "retrieving은 동명사"
+  },
+  {
+    "id": 98,
+    "source": "기출 기반 변형",
+    "sentence": "The aim of reflection is not to repeat experience but to extract meaning from it.",
+    "mainVerb": "is",
+    "acceptableVerbs": [
+      "is"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "The aim of reflection",
+      "is not",
+      "to repeat experience",
+      "but to extract meaning from it"
+    ],
+    "translation": "성찰의 목적은 경험을 반복하는 것이 아니라 그로부터 의미를 끌어내는 것이다.",
+    "note": "not A but B"
+  },
+  {
+    "id": 99,
+    "source": "기출 기반 변형",
+    "sentence": "Ideas that are discussed with others often become clearer than ideas kept silently in the mind.",
+    "mainVerb": "become",
+    "acceptableVerbs": [
+      "become",
+      "often become"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "Ideas",
+      "that are discussed with others",
+      "often become clearer",
+      "than ideas kept silently in the mind"
+    ],
+    "translation": "다른 사람들과 논의되는 생각은 마음속에 조용히 간직된 생각보다 종종 더 분명해진다.",
+    "note": "than 비교구문"
+  },
+  {
+    "id": 100,
+    "source": "기출 기반 변형",
+    "sentence": "Because meaningful learning requires effort, the feeling of difficulty is not always a sign of failure.",
+    "mainVerb": "is",
+    "acceptableVerbs": [
+      "is"
+    ],
+    "targetChunks": 4,
+    "chunks": [
+      "Because meaningful learning requires effort",
+      "the feeling of difficulty",
+      "is not always",
+      "a sign of failure"
+    ],
+    "translation": "의미 있는 학습에는 노력이 필요하기 때문에 어렵게 느껴지는 것은 항상 실패의 신호가 아니다.",
+    "note": "Because절 이유"
+  }
+]
